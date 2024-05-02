@@ -1,4 +1,4 @@
-question 1:
+
   d<-google_review_ratings.fix
   
   d<-data.frame(d,stringsAsFactors = F) 
